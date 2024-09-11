@@ -5,23 +5,23 @@ Bem-vindo(a) ao repositório de letras de músicas tradicionais de capoeira! Aqu
 ---
 
 ## Índice
-1. [A Manteiga Derramou - Grupo Capoeira Angola](#a-manteiga-derramou-grupo-capoeira-angola)
-2. [Camungerê - Grupo Capoeira Angola](#camungere-grupo-capoeira-angola)
-3. [Era Um Tal de Besouro Mangangá - Mestre Jogo de Dentro](#era-um-tal-de-besouro-mangangá-mestre-jogo-de-dentro)
-4. [Jogo de Dentro, Jogo de Fora - Mundo da Capoeira](#jogo-de-dentro-jogo-de-fora-mundo-da-capoeira)
-5. [Lembra Ê, Lembra - Desconhecido](#lembra-e-lembra-desconhecido)
-6. [Marinheiro Só - Grupo Capoeira Angola](#marinheiro-so-grupo-capoeira-angola)
-7. [O Sim, Sim, Sim - Mestre Jogo de Dentro](#o-sim-sim-sim-mestre-jogo-de-dentro)
-8. [Paranaue - Grupo Capoeira Angola](#paranauê-grupo-capoeira-angola)
-9. [Sai, Sai, Catarina - Grupo Capoeira Angola](#sai-sai-catarina-grupo-capoeira-angola)
-10. [São Bento Me Chama - Grupo Capoeira Angola](#sao-bento-me-chama-grupo-capoeira-angola)
-11. [Quem Vem Lá - Grupo Capoeira Angola](#quem-vem-la-grupo-capoeira-angola)
+1. [A Manteiga Derramou](#a-manteiga-derramou-grupo-capoeira-angola)
+2. [Camungerê](#camungere-grupo-capoeira-angola)
+3. [Era Um Tal de Besouro Mangangá](#era-um-tal-de-besouro-mangangá-mestre-jogo-de-dentro)
+4. [Jogo de Dentro, Jogo de Fora](#jogo-de-dentro-jogo-de-fora-mundo-da-capoeira)
+5. [Lembra Ê, Lembra](#lembra-e-lembra-desconhecido)
+6. [Marinheiro Só ](#marinheiro-so-grupo-capoeira-angola)
+7. [O Sim, Sim, Sim](#o-sim-sim-sim-mestre-jogo-de-dentro)
+8. [Paranaue ](#paranauê-grupo-capoeira-angola)
+9. [Sai, Sai, Catarina ](#sai-sai-catarina-grupo-capoeira-angola)
+10. [São Bento Me Chama ](#sao-bento-me-chama-grupo-capoeira-angola)
+11. [Quem Vem Lá ](#quem-vem-la-grupo-capoeira-angola)
 
 ---
 
 <div id="a-manteiga-derramou-grupo-capoeira-angola">
 
-## A Manteiga Derramou - Grupo Capoeira Angola
+## A Manteiga Derramou 
 
 Vou dizer ao meu senhor  
 Que a manteiga derramou  
@@ -44,7 +44,7 @@ Caiu no chão e derramou
 
 <div id="camungere-grupo-capoeira-angola">
 
-## Camungerê - Grupo Capoeira Angola
+## Camungerê 
 
 Como vai, como tá?  
 Camungerê!  
@@ -71,7 +71,7 @@ Camungerê!
 
 <div id="era-um-tal-de-besouro-mangangá-mestre-jogo-de-dentro">
 
-## Era Um Tal de Besouro Mangangá - Mestre Jogo de Dentro
+## Era Um Tal de Besouro Mangangá
 
 Certo dia tava na roda  
 Um menino me chamou pra jogar  
@@ -110,7 +110,7 @@ Era um nome de besouro manganga
 
 <div id="jogo-de-dentro-jogo-de-fora-mundo-da-capoeira">
 
-## Jogo de Dentro, Jogo de Fora - Mundo da Capoeira
+## Jogo de Dentro, Jogo de Fora
 
 Jogo de dentro, jogo de fora  
 CORO  
@@ -134,7 +134,7 @@ Jogo bonito quero ver agora
 
 <div id="lembra-e-lembra-desconhecido">
 
-## Lembra Ê, Lembra - Desconhecido
+## Lembra Ê, Lembra
 
 Lembra ê, lembra  
 Lembra do barro vermelho  
@@ -148,7 +148,7 @@ Lemba ê, o lemba
 
 <div id="marinheiro-so-grupo-capoeira-angola">
 
-## Marinheiro Só - Grupo Capoeira Angola
+## Marinheiro Só 
 
 Eu não sou daqui  
 (Marinheiro só)  
@@ -182,7 +182,7 @@ Com seu bonezinho
 
 <div id="o-sim-sim-sim-mestre-jogo-de-dentro">
 
-## O Sim, Sim, Sim - Mestre Jogo de Dentro
+## O Sim, Sim, Sim
 
 O sim, sim, sim, o, não, não, não,  
 O sim, sim, sim, o, não, não, não,  
@@ -195,7 +195,7 @@ O sim, sim, sim, oi, não, não, não,
 
 <div id="paranauê-grupo-capoeira-angola">
 
-## Paranaue - Grupo Capoeira Angola
+## Paranaue 
 
 Vou dizer minha mulher, Paraná  
 Capoeira me venceu, Paraná  
@@ -257,7 +257,7 @@ Paranauê, paranauê, Paraná
 
 <div id="sai-sai-catarina-grupo-capoeira-angola">
 
-## Sai, Sai, Catarina - Grupo Capoeira Angola
+## Sai, Sai, Catarina 
 
 Sai, sai, Catarina  
 Oia saia do mar vem a ver Idalina  
@@ -282,7 +282,7 @@ Oia saia do mar venha ver venha ver
 
 <div id="sao-bento-me-chama-grupo-capoeira-angola">
 
-## São Bento Me Chama - Grupo Capoeira Angola
+## São Bento Me Chama 
 
 Ai, ai, ai, ai  
 São Bento me chama  
@@ -309,7 +309,7 @@ São Bento me quer
 
 <div id="quem-vem-la-grupo-capoeira-angola">
 
-## Quem Vem Lá - Grupo Capoeira Angola
+## Quem Vem Lá 
 
 Quem vem lá sou eu (bis)  
 Berimbau bateu,  
