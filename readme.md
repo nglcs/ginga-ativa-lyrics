@@ -16,6 +16,7 @@ Bem-vindo(a) ao repositório de letras de músicas tradicionais de capoeira! Aqu
 9. [Sai, Sai, Catarina ](#sai-sai-catarina-grupo-capoeira-angola)
 10. [São Bento Me Chama ](#sao-bento-me-chama-grupo-capoeira-angola)
 11. [Quem Vem Lá ](#quem-vem-la-grupo-capoeira-angola)
+12. [Corta Cana ](#corta-cana)
 
 ---
 
@@ -343,5 +344,54 @@ Coro: quem vem lá!
 Sou eu Brevenuto  
 A cancela bateu  
 Quem reluz sou eu  
+
+</div>
+
+---
+
+
+<div id="corta-cana">
+## Corta cana
+
+Trabalha negro escravo, corta cana no canavial
+O corta cana, corta cana, corta cana, nego velho
+Corta cana no canavial
+O corta cana, corta cana, corta cana, nego velho
+Corta cana no canavial
+
+Eu tive pai, eu tive mãe eu tive filha
+Mas perdi toda a família, a liberdade e o amor
+E hoje em dia eu só tenho dor e calo
+Trabalhando no embalo, do chicote do feitor
+
+O corta cana, corta cana, corta cana, nego velho
+Corta cana no canavial
+
+Eu já fui rei, a minha mulher foi rainha
+Pela mata eu ia e vinha, livre como animal
+Mas hoje em dia, sou como um bicho acuado
+Trabalhando acorrentado, preso no canavial
+
+O corta cana, corta cana, corta cana, nego velho
+Corta cana no canavial
+
+A alma negra nunca foi escravizada, correu menina levada
+Brincado no céu de lá
+Roubaram o Sol, roubaram a noite e meu dia
+Só não roubaram a poesia que eu trago no meu cantar
+
+O corta cana, corta cana, corta cana, nego velho
+Corta cana no canavial
+
+Eu sou guerreiro tenho fé e tenho crença
+Porque me firmo na bênção, que ganhei dos orixás
+Sou cana forte, sou memé cana caiana
+Minha doçura te engana, é ruim de me derrubar
+
+O corta cana, corta cana, corta cana, nego velho
+Corta cana no canavial
+O nego velho corta cana, corta cana, corta cana, no canavial, nego velho
+
+  
 
 </div>
